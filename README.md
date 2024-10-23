@@ -4,7 +4,7 @@ Este é um projeto simples de página de cadastro e login desenvolvido como part
 
 ## Sobre o Projeto
 
-O projeto foi inspirado em um tutorial do canal Coding2GO, onde o foco é a construção de interfaces web básicas. Meu objetivo com este projeto é aplicar os conceitos fundamentais dessas três tecnologias (HTML, CSS e JavaScript).
+O projeto foi baseado em um tutorial do canal Coding2GO, onde o foco é a construção de interfaces web básicas. Meu objetivo com este projeto é aplicar os conceitos fundamentais dessas três tecnologias (HTML, CSS e JavaScript).
 
 ## Como usar
 
@@ -23,7 +23,7 @@ This is a simple signup and login page project developed as part of my learning 
 
 ## About the Project
 
-The project was inspired by a tutorial from the Coding2GO channel, where the focus is on building basic web interfaces. My goal with this project is to apply the fundamental concepts of these three technologies (HTML, CSS, and JavaScript).
+The project was based on a tutorial from the Coding2GO channel, where the focus is on building basic web interfaces. My goal with this project is to apply the fundamental concepts of these three technologies (HTML, CSS, and JavaScript).
 
 ## How to Use
 

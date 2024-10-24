@@ -1,6 +1,6 @@
 # Página de Cadastro e Login
 
-Este é um projeto simples de página de cadastro e login desenvolvido como parte do meu aprendizado em HTML, CSS e JavaScript.
+Este é um projeto simples de página de cadastro e login desenvolvido como parte do meu aprendizado em HTML, CSS e JavaScript. Para visitar o projeto, <a href="https://gustavo-rdrgs.github.io/login-signup-page/index.html">clique aqui</a>.
 
 ## Sobre o Projeto
 
